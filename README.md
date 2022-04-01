@@ -7,7 +7,7 @@
 - ` Tailwind CSS `
 
 ### Live
-
+https://spend-bill-gates-money-111.netlify.app/
 
 ### Setup
 1. Clone the repository and install the dependencies
