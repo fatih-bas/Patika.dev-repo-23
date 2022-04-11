@@ -1,14 +1,9 @@
 import { createSlice } from "@reduxjs/toolkit";
 import productList from "../../src/products.json";
-//import axios from "axios"
+
 
 export const data = productList.products;
-/* export const getData = createAsyncThunk("products/getProducts", async () => {
-  const res = await axios(productList.product);
-  console.log(res)
-  return res.data;
- });
- */
+
 
 export const moneySlice = createSlice({
   name: "product",
